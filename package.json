@@ -1,7 +1,7 @@
 {
   "name": "keywords",
   "version": "0.1.0",
-  "homepage": "http://alexbaikal.github.io/keywordsexperiment",
+  "homepage": "https://alexbaikal.github.io/keywordsexperiment",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
